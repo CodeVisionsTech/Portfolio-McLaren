@@ -1,0 +1,6 @@
+{
+  "name": "Apex Portfolio & Studio",
+  "description": "High-velocity, editorial portfolio inspired by Lando Norris featuring dynamic typography, interactive showcases, motion reveals, and an authenticated admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
